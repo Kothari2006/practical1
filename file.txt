@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 cudjjdndjmy nme imy name is vaibhav
+=======
+my nme imy name is vaibhav
+my name i thus 
+>>>>>>> 996ba0cfb1f7186266d88ebda3a9b7824a5926c6
